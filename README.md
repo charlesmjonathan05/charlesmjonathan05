@@ -56,14 +56,14 @@ Developed an AutoML UI using **Streamlit**, **XGBoost**, and **Flask** for non-t
 
 ## 📊 GitHub Stats
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesmjonathan05&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmjonathan05&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
+<-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) -->
 
 ---
 
