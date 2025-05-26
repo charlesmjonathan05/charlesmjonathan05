@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jonathan Michael Charles
 
-### 💻 Senior Software Engineer | Backend Specialist | Cloud-Native Enthusiast
+### 💻 Senior Software Engineer
 
 📍 San Antonio, TX  
 📧 charles.m.jonathan05@gmail.com  
@@ -51,19 +51,6 @@ Real-time fraud detection with **Kafka**, **Redis**, and **Flask**, reducing fal
 
 ### ⚙️ AutoML Dashboard  
 Developed an AutoML UI using **Streamlit**, **XGBoost**, and **Flask** for non-technical users to train ML models effortlessly.
-
----
-
-## 📊 GitHub Stats
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesmjonathan05&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmjonathan05&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-<-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) -->
 
 ---
 
