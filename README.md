@@ -1,10 +1,7 @@
-# 👋 Hi there, I'm Jonathan Michael Charles
+# 👋 Hi there, 
 
 ### 💻 Senior Software Engineer
 
-📍 San Antonio, TX  
-📧 charles.m.jonathan05@gmail.com  
-📞 (210) 864-0008  
 
 ---
 
